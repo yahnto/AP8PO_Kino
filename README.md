@@ -1,2 +1,23 @@
-# AP8PO_Kino
-AP8PO_Kino
+# Rezervacny system kina
+Cieľom tohto projektu bude vytvoriť klient-server webovú aplikáciu s využitím serverového skriptovacieho jazyka a databázového úložiska. Bude sluzit ako rezervacny system kina, uzivatel bude schopny rezervovat si miesto na premietanie, administracna cast mat za ulohu pridavat nove filmy a premietania.
+
+# Technologie:
+Laravel PHP, Docker, MariaDB
+
+# Harmonogram:
+vytvorenie prostredia docker a mariaDB
+pripojenie DB a vytvorenie struktury tabuliek
+login uzivatelov
+registracia
+pridavanie filmov
+sprava filmov
+premietania
+prepojenie premietania s filmom
+rezervacie pre uzivatela
+prepojenie rezervacie a premietania
+
+# Zhrnutie v strede:
+Pocas tvorenia tohto projektu sa mi podarilo splnit zatial vsetky moje zadane ciele pocas hodin, ktore sme mali. Casovy harmonogram ide podla planu, moze za to pravdepodobne to ze pracujem s technologiou, ktoru uz poznam a nikde som sa zatial nezasekol.
+
+# Zaver:
+Navrh projektu sa podarilo splnit ale nie v urcenom casovom harmonograme, projekt bol pozadu cca o 1-2 tyzdne, pocas projektu boli vyuzite novodobe technologie, ktore sa momentalne pouzivaju v realnom vyvoji ako napr. Laravel, Docker, MariaDB. Tento projekt je ukazka toho ako spravit jednoduchy rezervacny system kina pomocou programovacieho jazyka PHP a frameworku Laravel ale je mozne ho jednoducho prerobit aj na ine rezervacne systemy.
