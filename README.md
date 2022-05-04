@@ -5,16 +5,16 @@ Cieľom tohto projektu bude vytvoriť klient-server webovú aplikáciu s využit
 Laravel PHP, Docker, MariaDB
 
 # Harmonogram:
-vytvorenie prostredia docker a mariaDB
-pripojenie DB a vytvorenie struktury tabuliek
-login uzivatelov
-registracia
-pridavanie filmov
-sprava filmov
-premietania
-prepojenie premietania s filmom
-rezervacie pre uzivatela
-prepojenie rezervacie a premietania
+1. vytvorenie prostredia docker a mariaDB
+2. pripojenie DB a vytvorenie struktury tabuliek
+3. login uzivatelov
+4. registracia
+5. pridavanie filmov
+6. sprava filmov
+7. premietania
+8. prepojenie premietania s filmom
+9. rezervacie pre uzivatela
+10. prepojenie rezervacie a premietania
 
 # Zhrnutie v strede:
 Pocas tvorenia tohto projektu sa mi podarilo splnit zatial vsetky moje zadane ciele pocas hodin, ktore sme mali. Casovy harmonogram ide podla planu, moze za to pravdepodobne to ze pracujem s technologiou, ktoru uz poznam a nikde som sa zatial nezasekol.
